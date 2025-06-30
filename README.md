@@ -1,2 +1,2 @@
 # laravel-sail-containers
-Alternative Containers compatibility layer to @laravel/sail application
+Alternative Containers compatibility to @laravel/sail application
